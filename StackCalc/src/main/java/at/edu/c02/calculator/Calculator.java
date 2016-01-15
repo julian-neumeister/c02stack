@@ -2,7 +2,7 @@ package at.edu.c02.calculator;
 
 
 public interface Calculator {
-
+	// Operationen
 	enum Operation {
 		add, sub, mul, div, mod
 	};
